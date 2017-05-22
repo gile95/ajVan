@@ -1,7 +1,7 @@
 # ajVan
 'Aj Van' is a web app that uses ASP.NET MVC and Entity Framework. It helps people organize their sports gatherings
 
-SLIKE APLIKACIJE moguće je vidjeti u direktoriju 'app images'
+SLIKE APLIKACIJE moguće je vidjeti u direktoriju 'app images'.
 
 <p>
         Razmišljajući o trenutnom načinu života, nedostatku vremena i prateći različite društvene mreže i razmisljanja ljudi na istima došli smo do zaključka da je potrebno oživjeti sportski duh i potaknuti zdraviji život i kvalitetnije iskorištavanje slobodnog vremena unutar mlađe populacije, osobito velikog broja studenata u glavnom gradu Zagrebu.
